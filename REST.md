@@ -47,6 +47,7 @@ Convert Your Website Into a Basic ReSTful WebService.
 * **Description:**
 
      To perform arithmetic operation: url: http://54.244.41.255:5000/4/2/+ parameter : Enter the oparands value and the operator to perform the calculation  output : {"answer": "6"}
+     **Note : for division use % operator instead of / operator.
 
      
   ```
